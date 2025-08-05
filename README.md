@@ -1,5 +1,3 @@
-# Canonical Technical Assessment
-
 ## Instructions
 
 Debian uses *deb packages to deploy and upgrade software. The packages
